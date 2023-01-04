@@ -38,6 +38,12 @@ export default {
                     title: 'Google',
                     description: 'Learn to google...',
                     link: 'https://google.org'
+                },
+                {
+                    id: 'nuxt',
+                    title: 'Nuxt.js',
+                    description: 'Nuxt.js - Vue.js on Steroids',
+                    link: 'https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/'
                 }
             ]
         };
