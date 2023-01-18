@@ -1,6 +1,7 @@
 Steps for deploying the code locally:
 
 1) git clone https://github.com/Josip-github/Learning-Resources-Project.git
+(if you are not a collaborator of this private github repository, just unzip the folder and proceed to number 2)
 
 2) in the root folder of the project run following command:
 docker build -t vuejs-cookbook/learning-resources .
